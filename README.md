@@ -24,4 +24,5 @@ This is a full-stack web app built using **Cloudflare Pages**, **Cloudflare Work
 ---
 
 ## 📁 Folder Structure
+/src - Website frontend /worker - Cloudflare Worker script /db - SQL schema & example queries research.md - Notes on serverless, edge, and D1 README.md - Project overview and usage
 
